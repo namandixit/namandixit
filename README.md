@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<table style="width:100%">
+  <tr>
+    <td>
+<div>
+
 <!--START_SECTION:top_language-->
 ```text
 C           853.59 KiB ███████████████████████░░   92.46 %
@@ -11,8 +16,13 @@ C++         227.00 B   ░░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:top_language-->
 
-
-[![Naman's github stats](https://github-readme-stats.vercel.app/api?username=namandixit&show_icons=true&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+    </td>
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api?username=namandixit&show_icons=true&count_private=true&theme=graywhite&hide_rank=true" alt="Naman's github stats"> 
+    </td>
+  </tr>
+</table>
 
 <!--
 **namandixit/namandixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
