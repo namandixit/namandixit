@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<table style="width:100%">
+<table>
   <tr>
     <td>
 <div>
