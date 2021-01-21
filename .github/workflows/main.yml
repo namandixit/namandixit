@@ -11,4 +11,4 @@ jobs:
         name: Update this repo's README
         runs-on: ubuntu-latest
         steps:
-        - uses: ryuanerin/top-languages-readme@master
+        - uses: namandixit/top-languages-readme@master
