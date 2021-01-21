@@ -14,3 +14,7 @@ jobs:
         - uses: namandixit/top-languages-readme@master
           with:
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
+            LIST_COUNT: 5
+            SHOW_TOTAL: true # Optional
+            TOP_TOTAL: true # Optional
+            SHOW_TOTAL_SEPARATOR: true # Optional
